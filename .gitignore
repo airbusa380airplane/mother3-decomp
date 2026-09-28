@@ -1,0 +1,22 @@
+# Local reference inputs and generated output
+/baserom/
+/build/
+*.gba
+*.nds
+*.sav
+*.srm
+*.state
+*.state.*
+
+# Compiler and Python output
+*.o
+*.elf
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
