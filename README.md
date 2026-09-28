@@ -34,6 +34,7 @@ A legally obtained MOTHER 3 ROM may be required by the build process. Do not com
 ## Credits
 
 This project builds on prior community decompilation work, including the existing MOTHER 3 decompilation efforts that provided the starting point for this project.
+AI (ChatGPT Codex) heavily used for decompilation (but it byte-matches so it's fine)
 
 ## Disclaimer
 
